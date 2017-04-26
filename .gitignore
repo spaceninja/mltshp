@@ -10,3 +10,5 @@ pip-log.txt
 *.swp
 env
 mounts
+config.codekit
+config.codekit3
