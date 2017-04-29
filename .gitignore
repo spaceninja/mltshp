@@ -12,3 +12,4 @@ env
 mounts
 config.codekit
 config.codekit3
+.deploy.env
